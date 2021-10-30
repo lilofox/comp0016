@@ -5,6 +5,6 @@ In this project we used surveys/questionaires to gather data about user requirem
 <img src='./images/Capture.PNG'>
 
 
-## Response Data
+## Response Statistics
 
 TODO
