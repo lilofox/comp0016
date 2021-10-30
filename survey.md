@@ -4,4 +4,4 @@ In this project we used surveys/questionaires to gather data about user requirem
 
 ### Survey Link
 
-The survey is implemented as a Google Form https://forms.gle/G4eB7VueTgRWjmEw9?id=AAQkAGQ0YTdkYzUxLTQ0MDgtNDgwMi04MzZmLTFmYjY1YzlkNDNhNwAQACoKPI0rx8BCnpGw5jyBU7U%3D
+The survey is implemented as a Google Form: https://docs.google.com/forms/d/e/1FAIpQLSdVioWNxR166Ztrh4sHPphh0fXHVuz_SqgQdpjS0f-zh10BKA/viewform
